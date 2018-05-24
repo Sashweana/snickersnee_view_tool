@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SnickersneeViewTool::Renderer.copyright 'Sashweana Rajendran', 'All rights reserved'
+```
 
 ## Development
 
